@@ -10,6 +10,6 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background: url('./img/cafe.jpg');
+  background: url('./img/cafe-min.jpg');
   background-size: cover;
 }
